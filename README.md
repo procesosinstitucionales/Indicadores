@@ -217,3 +217,4 @@ $("bGen").onclick=async()=>{
 </script>
 </body>
 </html>
+Enlace: https://procesosinstitucionales.github.io/Indicadores/Ejercicio%201%20%E2%80%93%20Fichas%20t%C3%A9cnicas%20de%20indicadores%20(1).html
